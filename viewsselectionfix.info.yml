@@ -1,0 +1,7 @@
+name: ViewsSelection Fix
+description: Corrects the incorrect operation of the ViewsSelection entity reference handler in fields.
+package: LABiomed
+type: module
+version: 1.0
+core: 8.x
+

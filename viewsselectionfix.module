@@ -1,0 +1,25 @@
+<?php
+
+//function ViewsSElection_fix_views_plugins_filter_alter(array &$plugins) {
+//  kint($plugins);
+//}
+//
+//function ViewsSElection_fix_views_plugins_field_alter(array &$plugins) {
+//  kint($plugins);
+//}
+//
+///**
+// * Implements hook_field_widget_info_alter().
+// */
+//function ViewsSelection_fix_field_widget_info_alter(array &$info) {
+//  kint($info);
+//}
+//
+///**
+// * Implements hook_field_widget_form_alter().
+// */
+//function ViewsSelection_fix_field_widget_form_alter(&$element, \Drupal\Core\Form\FormStateInterface $form_state, $context) {
+//  kint($element);
+//  kint($form_state);
+//  kint($context);
+//}
